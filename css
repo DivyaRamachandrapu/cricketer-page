@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.top-bg-section {
+    background-color: #fb4e71;
+    font-family: Roboto;
+    color: #ffffff;
+    height: 27vh;
+    padding: 14px;
+}
+
+.top-heading {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.top-paragraph {
+    font-size: 13px;
+}
+
+.top-image {
+    height: 130px;
+    width: 105px;
+}
+
+.bottom-bg-section {
+    background-color: #e6f6ff;
+    font-family: roboto;
+    height: 73vh;
+}
+
+.bottom-heading {
+    font-size: 14px;
+    color: #2f4373;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+
+.ipl-card {
+    background-color: #ffffff;
+    height: 20vh;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+
+.ipl-card-image {
+    height: 115px;
+    width: 110px;
+}
+
+.ipl-card-heading {
+    font-size: 13px;
+    color: #4e6396;
+    font-weight: bold;
+    padding-left: 5px;
+    padding-top: 5px;
+
+}
+
+.ipl-description {
+    font-size: 13px;
+    color: #888888;
+    padding-left: 8px;
+    padding-right: 8px;
+
+}
+
+.cricket-video {
+    margin-left: 15px;
+    margin-top: 13px;
+}
+
+.video-description {
+    font-size: 11px;
+    color: #2f4373;
+    padding-left: 15px;
+    font-weight: bold;
+}
+
+.button {
+    font-size: 12px;
+    color: #ffffff;
+    height: 34px;
+    width: 88px;
+
+}
